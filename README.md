@@ -1,5 +1,7 @@
 # MultiVie Ecommerce
 
+![multivie_1](https://user-images.githubusercontent.com/6785647/221453994-df96b7d7-de2f-425c-8b67-a04aab0e9002.png)
+
 Welcome to our healthy products and juices website, where we believe that living a healthy lifestyle doesn't have to be a chore! We offer a wide range of delicious and nutritious products that are designed to help you look and feel your best.
 
 ## Features
